@@ -1,0 +1,5 @@
+position 1 -1.1 2
+lposition 8 -4 1
+weapon p 8 -3 5
+weapon r 0 -90 0
+weapon s 0.77 0.77 0.77

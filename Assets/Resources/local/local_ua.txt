@@ -1,0 +1,431 @@
+﻿_GAMENAME|БЛОКПОСТ
+_LANGUAGE_TRANSLATION|ОФІЦІЙНИЙ
+_LANGUAGE_NAME|УКРАЇНСЬКИЙ
+_BONUS_LEFT|ДО НАСТУПНОГО БОНУСА ЗАЛИШИЛОСЬ {0}г {1}х
+_DAY|ДЕНЬ
+_COME_EVER_DAY|ЗАХЛДБТЕ У ГРУ КОЖЕН ДЕНЬ ТА ОТРИМУЙТЕ БОНУС
+_CONTINUE|ПРОДОВЖИТИ
+_COLLECT|ЗАБРАТИ
+_RECEIVED|ВИ ОТРИМАЛИ
+_REQUIRES_KEY|ПОТРІБЕН КЛЮЧ
+_GOTO_STORE|ПЕРЕЙТИ В МАГАЗИН
+_USED_KEY|ПОТРІБНИЙ КЛЮЧ
+_OPEN_CASE_EMUL|ВІДКРИТИ КЕЙС (ЭМУЛЯТОР)
+_OPEN_CASE|ВІДКРИТИ КЕЙС 
+_SOLDIER|РЯДОВИЙ
+_SERGEANT|СЕРЖАНТ
+_COMMANDER|КОМАНДИР
+_CAPTAIN|КАПІТАН
+_LEAVE_CLAN|ВИЙТИ З КЛАНУ
+_LEAVE_CLAN_CONFIRM|ВИЙТИ З КЛАНУ (ПІДТВЕРДИТИ)
+_CANCEL|ВІДМІНА
+_FIND_CLAN|ЗНАЙТИ КЛАН
+_CREATE_CLAN|СТВОРИТИ КЛАН
+_LOOKFOR|ШУКАТИ
+_SEARCH|ПОШУК...
+_CLAN_NAME|НАЗВА КЛАНУ
+_PARTY|УЧАСНИКИ
+_FOUNDER|ЗАСНОВНИК
+_ADMISSION|ВСТУП
+_SUBMISSION_FOR_BID|ДЛЯ ПОДАЧІ ЗАЯВК В КЛАН НЕОБХІДНИЙ 10 РІВЕНЬ
+_CLAN_NOT_ACCEPT|КЛАН НЕ ПРИЙМАЄ ЗАЯВКИ
+_APPLY_TO_CLAN|ПОДАДТИ ЗАЯВКУ ДО КЛАНУ
+_SEND|ВІДПРАВИТИ
+_IS_OPEN|ВІТКРИТИЙ
+_IS_CLOSE|ЗАКРИТИЙ
+_SHOW_LAST_CLANS|ПОКАЗАНО 25 ОСТАННІХ КЛАНІВ
+_REBUILD_CLAN|ВІДНОВИТИ КЛАН
+_CREATURE|СТВОРЕННЯ...
+_CLAN_CREATION_AVAILABLE|СТВОРЕННЯ КЛАНУ ДОСТУПНО З 15 РІВНЯ
+_ATTENTION_NAME|Увага: Ім`я може містити букви лише англійського алфавіту <br>Дозволенно використовувати цифри та символи '_' '.' <br> Мінімальна довжина імені 3 символа, максимальна 16
+_NUMBER_POSTS|КІЛЬКІСТЬ ПОВІДОМЛЕНЬ:
+_RENAME_CLAN|ПЕРЕІМЕНУВАТИ КЛАН
+_CLAN_STATUS|СТАТУС КЛАНА
+_CLAN_EXPANSION|РРОЗШИРЕННЯ КЛАНА
+_REMOVE_CLAN|ВИДАЛИТИ КЛАН
+_REMOVE_CLAN_CONFIRM|ВИДАЛИТИ КЛАН (ПІДТВЕРДИТИ)
+_AVAILABLE_RENAME|Доступних змін імені:
+_RENAME|ПЕРЕЙМЕНУВАТИ
+_RETURN|ПОВЕРУНТИСЯ
+_CURRENT_STATUS_CLAN_OPEN|Почточний статус клана <color=#FF0>відкритий</color>
+_CLAN_TAKES_APPLICATION|Клан принимает заявки на вступление
+_CURRENT_STATUS_CLAN_CLOSE|Почточний статус клана <color=#FF0>заккритий</color>
+_CLAN_NOT_ACCEPT_APPLICATION|Клан не принимает заявки на вступление / Клан не приймає заявки на вступ
+_CHANGE_STATUS|ЗМІНИТИ СТАТУС
+_CURRENT_NUMBER_SLOTS|Поточна кiлькiсть слотiв <color=#FF0>
+_YOUR_CLAN_MAXIMUM|<color=#0F0>Ваш клан досяг максимуму 200 слотів!</color>
+_SLOTS_AFTER_EXPANSION|Слотів після розширення клану
+_MAXIMUM_200|(максимум 200)  
+_COST_OPERATION|Вартість дії 50 монет!
+_PLACE_WEAPON_CASE|Помістіть 3 одиниці зброї для розбору <color=red>(зброя буде знищена назавжди</color>, вобмін ви отримаєте спціальний кейс.
+_PLACE_WEAPON_WEAPON|Помістіть 3 одиниці зброї для модернізації <color=red>(зброя буде знищена назавжди</color>, вобмін ви отримаєте модернізовану зброю.
+_PLACE_CASE_2_COIN|Помістіть 1 кейс для продажу <color=red>(кейс буде видалено з вашого інвентарю назавжди)</color>, вобмін ви отримаєте 2 монети. 
+_PLACE_CASE_3_COIN|Помістіть 1 кейс для продажу <color=red>(кейс буде видалено з вашого інвентарю назавжди)</color>, вобмін ви отримаєте 3 монети.
+_PLACE_CASE_1_COIN|Помістіть 1 кейс для продажу <color=red>(кейс буде видалено з вашого інвентарю назавжди)</color>, вобмін ви отримаєте 1 монету.
+_WAITING_SERVER|Очікування відповіді сервера
+_START_DISARMAMENT|ПОЧАТИ РОЗБІР
+_START_UPGRADE_NOT|ПОЧАТИ МОДЕРНІЗАЦІЮ (НЕДОСТУПНО)
+_SALE_WILL_BE|ПРОДАЖ БУДЕ ДОСТУПНИЙ ЧЕРЕЗ
+_START_SALE|ПОЧАТИ ПРОДАЖ
+_MAP_SAVED|МАПУ ЗБЕРЕЖЕННО
+_CONSERVATION|ИВІДБУВАЄТЬСЯ ЗБЕРЕЖЕННЯ
+_ENABLE_CHAT|ВВІМКНУТИ ЧАТ
+_DISABLE_CHAT|ВИМКНУТИ ЧАТ
+_GAME_MENU|ИІГРОВЕ МЕНЮ
+_BACK_TO_GAME|ПОВЕРНУТИСЬ ДО ГРИ
+_CHANGE_WEAPON|ЗМІНИТИ ЗБРОЮ
+_SAVE_MAP|ЗБЕРЕГТИ МАПУ
+_EXIT_MAIN_MENU|ВИЙТИ В ГОЛОВНЕ МЕНЮ
+_SET1|СЕТ 1
+_SET2|СЕТ 2
+_SET3|СЕТ 3
+_PRIMARY|ОСНОВНА
+_SECONDARY|ВТОРИЧНА
+_MELEE|БЛИЖНІЙ БІЙ
+_BUILDING_BLOCK|БУДІВЕЛЬНИЙ БЛОК
+_ADDITIONAL|ДОДАТКОВО
+_COIN|монет
+_COINS|монети
+_VOICE|голос
+_VOICES|голосів
+_DAMAGE|ПОШКОДЖЕННЯ
+_CAGE|МАГАЗИН
+_STOCK|ЗАПАС
+_RATE_FIRE|ТЕМП СТРІЛЬБИ
+_DISTANCE|ДИСТАНЦІЯ
+_ACCURACY|ТОЧНІСТЬ
+_RELOAD_SPEED|ШВИДКІСТЬ ПЕРЕЗАРЯДКИ
+_RECOIL|ВІДДАЧА
+_PROPERTIES|ПРОБИВНА ЗДАТНІСТЬ
+_MOBILITY|МОБІЛЬНІСТЬ
+_OVERVIEW|ОБЗОР
+_WEAR_WEAPON|ВЗЯТИ ЗБРОЮ
+_REMOVE_WEAPON|ЗНЯТИ ЗБРОЮ
+_COLOR_SKIN|КОЛІР ШКІРИ
+_COLOR_EYE|КОЛІР ОЧЕЙ
+_COLOR_HAIR|КОЛІР ВОЛОССЯ
+_HAIRSTYLE|ЗАЧІСКА
+_EYE_TYPE|ТИП ОЧЕЙ
+_BEARD|ЩЕТИНА
+_HAT|ШАПКА
+_BODY|ТІЛО
+_PANTS|ШТАНИ
+_BOOTS|БОТИ
+_BASIC_LVL|БАЗОВИЙ Lv.
+_FRAGS|ФРАГІВ:
+_PROGRESS|ПРОГРЕС
+_WITHOUT_SIGHT|БЕЗ ПРИЦІЛУ
+_NEW_MAP|НОВА КАРТА
+_IS_LOADING|ЗАВАНТАЖЕННЯ
+_NAME_MAP|ІМ`Я МАПИ
+_SIZE_MAP|РОЗМІР МАПИ
+_HEIGHT_MAP|ВИСОТА МАПИ
+_CREATE|СТВОРИТИ
+_LOAD|ЗАВАНТАЖИТИ
+_CHANGE_NAME|ЗМІНИТИ ІМ`Я
+_SAVING|ЗБЕРЕЖЕННЯ...
+_PURCHASE_CHANGE_NAME|Купити зміну імені (2 шт)
+_BUY|КУПИТИ
+_REGULAR_TASKS|РУГЕЛЯРНІ ЗАВДАННЯ
+_ACTIVE_TASKS|АКТИВНІ ЗАВДАННЯ
+_PROGRESS_ACTIVITIES|Прогрес данних завдать зберігається завжди
+_MUST_SELECT_TASK|Необхідно вибрати одне завдання для його виконання
+_NEW_LVL|НОВИЙ РІВЕНЬ
+_REACH_LVL|Досягніть %param% рівня
+_SHTORM_TROOPER|ШТУРМОВИК
+_FRAGS_ASSAULT_RIFLE|Зробіть %param% фрагів зі штурмової гвинтівки
+_MADE_IN_RUSSIA|«ЗРОБЛЕНО В РОСІЇ»
+_MADE_IN_RUSSIA2|«ЗРОБЛЕНО В РОСІЇ 2»
+_FRAGS_RUSSIAN_WEAPON|Зробіть %param% фрагів з російської зброї
+_SNIPER|СНАЙПЕР
+_FRAGS_SNIPER_RIFLE|Зробіть 1000 фрагів зі снайперської гвинтівки
+_SECONDARY_WEAPON|ВТОРИЧНА ЗБРОЯ
+_FRAGS_PISTOL|Зробіть 300 фрагів з пістолета
+_GIFT_CASE_ANNIVERSARY|Подарунковий кейс в честь річниці гри
+_GIFT_KEY_ANNIVERSARY|Подарунковий ключ в честь річниці гри
+_FRAGS_HEADSHOT|Зробіть 500 фрагів з попаданням у голову
+_VICTORY_DAY|ДЕНЬ ПЕРЕМОГИ	
+_GIFT_CASE_VICTORYDAY|Подарунковий кейс в честь Дня Перемоги
+_GIFT_KEY_VICTORYDAY|Подарунковий ключ в честь Дня Перемоги
+_VICTORY_CASE|ПОБЕДНЫЙ КЕЙС
+_FRAGS_ANY_WEAPON_THIS_CASE|<size=14>Зробіть 1000 фрагів з будь-якої зброї<br><color=orange>+50% дл прогресу при при використанні  зброї з переможних кейсів</color></size>
+_GIFT_CASE_HALLOWEEN|Подарунковий кейс в честь Геловіну
+_GIFT_KEY_HALLOWEEN|Подарунковий ключ в честь Геловіну
+_FRAGS_MELEE_WEAPON|Зробіть 500 фрагів зброєю ближнього бою
+_HAPPY_NEW_YEAR|З новим роком!
+_FRAGS_ANY_WEAPON|Зробіть 1000 фрагів з будь-якої
+_REWARD|НАГРАДА
+_AWARE_AWARD|ЗАРАТИ ВИНАГОРОДУ
+_SELECT_TASK|ВИБРАТИ ЗАВДАННЯ
+_SELECTED|ВЫБРАНО
+_QUALITY_GRAPHICS|ЯКІСТЬ ГРАФІКИ
+_SWITCHED_OFF|ВВИМКНЕННИЙ
+_SWITCHED_ON|ВВІМКНЕННИЙ
+_CENTER|ЦЕНТР
+_LEFT|ЗЛІВА
+_WHITE|БІЛИЙ
+_GREEN|ЗЕЛЕНИЙ
+_YELLOW|ЖОВТИЙ 
+_BLUE|СИНІЙ
+_ORANGE|ОПОМАРАНЧЕВИЙ
+_MEAN|СЕРЕДНЄ
+_HIGH|ВИСОКЕ
+_VERY_HIGH|ДУЖЕ НИЗЬКЕ
+_LOW|НИЗЬКО
+_ULTRA|УЛЬТРА
+_RECRUIT|РЕКРУТ
+_COLOR_SIGHT|КОЛІР ПРИЦІЛУ
+_DISPLAY_LIFE|ВІДОБРАЖЕННЯ ЗДОРОВ`Я
+_CHAT_FILTER|ФІЛЬТР ЧАТУ
+_NETWORK_SURFACE|СІТЬОВЕ ЗГЛАДЖУВАННЯ
+_DEVELOPERS_MODE|РЕЖИМ РОЗРОБНИКА
+_SCREEN_RESOLUTION|РОЗДІЛЬНА ЗДАТНІСТЬ ЕКРАНУ
+_DYNAMIC_LIGHTING|ДИНАМІЧНЕ ОСВІТЛЕННЯ
+_BLICKS|БЛІКИ
+_PARTICLES|ЧАСТИЦІ
+_SMOOTHING|ЗГЛАДЖУВАННЯ
+_MOTION_BLUR|РОЗМИТТЯ У РУСІ
+_FULL_SCREEN|Перейти в повноекранний режим можна через клавішу <color=#FF0>F9</color>
+_MOUSE_SENSITIVITY|РІКІСТЬ МИШІ
+_MOUSE_SENSITIVITY_AIM|РІЗКІСТЬ МИШІ (ПРИЦІЛЮВАННЯ)
+_SOUND_VOLUME|ГУЧНІСТЬ ЗВУКІВ
+_MUSIC_VOLUME|ГУЧНІСТЬ МУЗИКИ
+_REPEAL|ВІДМІНА
+_SAVE|ЗБЕРЕГТИ
+_SETTINGS_SAVED|НАЛАШТУВАННЯ ЗБЕРЕЖЕНІ!
+_BACK|НАЗАД
+_OFFICIAL_SERVER|ОФІЦІЙНІ СЕРВЕРИ
+_USER_SERVER|СЕРВЕРИ КОРИСТУВАЧІВ
+_BASIC_MODE_GAME|Основні режими гри та набори мап
+_MODIFIED_MODE_GAME|Модифіковані режими і створення мап користувачами
+_HIDE_FULL_SERVER|Приховати повний сервер
+_HIDE_EMPTY_SERVER|Прихочати пустий сервер
+_ALL_MODES|Всі режими
+_FILTER_TDM|Командний бій
+_FILTER_FFA|Кожен сам за себе
+_FILTER_SHOVEL|Бій на лопатах
+_FILTER_ELIMINATION|Знищення
+_MODE_TDM|КОМАНДНИЙ БІЙ
+_MODE_SHOVEL|БІЙ НА ЛОПАТАХ
+_MODE_FFA|КОЖЕ САМ ЗА СЕБЕ
+_MODE_TEST|ТЕСТОВИЙ РЕЖИМ
+_MODE_ELIMINATION|ЗНИЩЕННЯ
+_MODE_INFECTION|ЗАРАЖЕННЯ
+_RENDER_DEV|РЕНДЕР (DEV)
+_RENDER_CASE|РЕНДЕР (КЕЙС)
+_EDITOR_SKIN|РЕДАКТОР СКІНІВ
+_EDITOR_MAP|РЕДАКТОР МАП
+_SQUAD|СКВАД
+_CREATE_SERVER|СТВОРИТИ СЕРВЕР
+_REFRESH_SERVER|ОБНОВИТИ СПИСОК
+_SERVER|СЕРВЕР
+_MODE|РЕЖИМ
+_PLAYERS|ГРАВЦІ
+_LEVEL|РІВЕНЬ
+_CONNECT|ПІДКЛЮЧИТИСЬ
+_TEST_MAP|ТЕСТОВА МАПА
+_LOAD_MAP|ЗАВАНТАЖИТИ МАПУ
+_NEW_MAP|НОВА МАПА
+_NEW_SKIN|НОВИЙ СКІН
+_LOAD_SKIN|ЗАВАНТАЖИТИ СКІН
+_EXPA|EXP:
+_LEVEL_PROGRESS|ПРОГРЕС РІВНЯ:
+_DEATH|СМЕРТЕЙ:
+_RATIO|ВІДНОШЕННЯ Ф/С:
+_ASSIST|ДОПОМОГА:
+_HEADSHOT|ХЕДШОТІВ:
+_PLAYER|ГРАВЕЦЬ
+_NOT_ENTER_RATING|ВИ НЕ ВХОДИТЕ В РЕЙТИНГ
+_SHOW|ПОКАЗАТИ
+_WAITING_CONFIRM|Очікуємо підтвердження отриманя предмету...
+_THANK_YOU_PURCHASE|Дякуємо за покупку! Предмет знаходиться в інвентарі
+_TRY_AGAIN|Сталась помилка, спробуйте пізніше
+_CASE_CONTAIN_SUBJECTS|Кейс може містити один з наступних предметів:
+_CASE_IN_WORKSHOP|Данний кейс можна отримати в майстерні в розділі розбір
+_CASE_JOB|Данний кейс можна отримати безкоштовно, виконавши завдання
+_AVAILABLE_CASE|Доступно кейсів
+_SUPPLY THROUGH|Оновлення запасів через
+_KEY_ONE_OPEN|Ключ одноразово відкриває відповідний кейс
+_COSTUME_CAN_COMBINED|Костю персонажа (можна комбінувати з іншими елементами одягу)
+_OPEN|ВІДКРИТИ
+_COST|Вартість:
+_BUY_MORE|КУПИТИ ЩЕ +1
+_GOTO|ПЕРЕЙТИ
+_NOT_MISS_COIN|Недостатньо монет для покупки
+_FILL_COINS|ПОПОВНИТИ МОНЕТИ
+_EXIT|ВИЙТИ
+_NO_WEAPON|НЕМАЄ ЗБРОЇ
+_MASTERLY|МАЙСТЕРНО!
+_PERFECTLY|ВІДМІННО!
+_EXCELLENT|НЕПЕРЕВЕРЕШЕНО!
+_IDEALLY|ІДЕАЛЬНО!
+_CLICK_SELECT_WEAPON|НАТИСНІТЬ <color=yellow>E</color> ДЛЯ ВИБОРУ СЕТУ ЗБРОЇ
+_WEAPON_CHANGE_REVIVAL|ЗБРОЯ ЗМІНИТЬСЯ ПРИ НАСТУПНОМУ ВІДРОДЖЕННІ
+_NO_AMMO|НЕМАЄ ПАТРОНІВ
+_WON|ПЕРЕМІГ
+_NEXT_GAME_WILLBE|НАСТУПНА ГРА ПОЧНЕТЬСЯ ЧЕРЕЗ
+_GAME_OVER|ГРУ ЗАКІНЧЕНО
+_TEAM_RED_WINS|КОМАНДА ЧЕРВОНИХ ПЕРЕМОГЛА
+_TEAM_BLUE_WINS|КОМАНДА СИНІХ ПЕРЕМОГЛА
+_DRAW|НІЧИЯ
+_YOU_WERE_KILLED|ВАС ВБИВ
+_WEAPON|ЗБРОЯ
+_SPECIALIZATION|Спеціалізація
+_YOU|ВИ
+_ENEMY|ВОРОГ
+_HOLD_REDIAL_VIEWING|УТРИМУЙТЕ <color=yellow>H</color>  ДЛЯ ПОВТОРНОГО ПЕРЕГЛЯДУ  
+_TO_TEAM|(команді)
+_TOTAL|ВСЬОГО
+_WAITING_AUTH|ОЧІКУВАННЯ АВТОРИЗАЦІЇ
+_PLAY|ГРАТИ
+_INVENTORY|ІНВЕНТАР
+_MENU_WEAPON|ЗБРОЯ
+_CHARACTER|ПЕРСОНАЖ
+_CASES|КЕЙСИ
+_PROFILE|ПРОФІЛЬ
+_SHOP|МАГАЗИН
+_KEYS|КЛЮЧІ
+_SUIT|КОСТЮМИ
+_WORKSHOP|МАЙСТЕРНЯ
+_PARSE|РОЗБІР
+_UPGRADE|МОДЕРНІЗАЦІЯ
+_BUYING_CASES|ЗАКУПКА КЕЙСІВ
+_TASKS|ЗАВДАННЯ
+_COMBAT|БОЙОВІ
+_BONUSES|БОНУСИ
+_RATING|РЕЙТИНГ
+_OPTIONS|ОПЦІЇ
+_GAME|ГРА
+_GRAPHICS|ГРАФІКА
+_CONTROL|УПРАВЛIННЯ
+_SOUND|ЗВУК
+_SELECT_NAME|ВИБОР ІМЕНІ
+_COMPLETION|ПОПОВНЕННЯ
+_CLANS|КЛАНИ
+_MY_CLAN|МІЙ КЛАН
+_FIND_CLAN|ЗНАЙТИ КЛАН
+_MESSAGES|ПОВІДОМЛЕННЯ 
+_CLICK_CHANGE_NAME|НАТИСНІТЬ ЩОБ ЗМІНИТИ ІМ`Я
+_CLICK_FILL_COINS|НАТИСНІТЬ ЩОБ ПОПОВНИТИ МОНЕТИ
+_CLICK_CONTINUE|НАТИСНІТЬ КЛАВІШУ МИШІ ДЛЯ ПРОДОВЖЕННЯ
+_AUTH_SUCCESSFULLY|АВТОРИЗАЦІЯ ПРОЙШЛА УСПІШНО
+_YOU_KILLED_PLAYER|Вас вбиб гравець
+_YOU_KILLED|Ви вбили
+_SURVIVAL_TIME|Час виживання
+_MIN|хв
+_SERVER_AVAILABLE_WILL_BE|Наступний вхід на срвер буде доступним через
+_NOT_CONNECT_TIMEOUT|НЕ ВДАЛОСЬ ПІДКЛЮЧИТИСЬ ДО СЕРВЕРУ (TIMEOUT) 
+_PRESERVED|ЗБЕРЕЖЕНО 
+_INCORRECT_LENGTH|НЕКОРЕКТНА ДОВЖИНА
+_MIX_LANGUAGES|ЗМІШАННЯ МОВ
+_NAME_BUSY|ДАНЕ ІМ`Я ВЖЕ ЗАЙНЯТО
+_YOU_TAKE|ВИ ЗАЙМАЄТЕ
+_PLACE_RATING|МІСЦЕ В РЕЙТИНГУ
+_MEMBERS|УЧАСНИКИ
+_INCORRECT_CLAN_NAME|НЕКОРЕКТНА НАЗВА КЛАНУ
+_CLAN_NOT_FOUND|КЛАН НЕ ЗНАЙДЕНО
+_CLAN_FOUND|КАН ЗНАЙДЕНО
+_NOT_CONNECT_LOST_CONNECTION|НЕ ВДАЛОСЬ ПІДКЛЮЧИТИСЬ ДО СЕРВЕРУ (LOST CONNECTION)
+_ONLINE|ОНЛАЙН:
+_LOADING|ЗАВАНТАЖЕННЯ
+_CLICK_OPEN_ADMIN_MENU_SERVER|НАТИСНІТЬ <color=yellow>K</color>  ЩОЮ ВІДКРИТИ МЕНЮ АДМІНІСТРАТОРА СЕРВЕРУ
+_MENU_ADMIN_SERVER|МЕНЮ АДМІНІСТРАТОРА СЕРВЕРУ
+_SERVER_CONFIG|НАЛАШТУВАННЯ СЕРВЕРУ
+_MAPS_MANAGER|УПРАВЛIННЯ МАПАМИ
+_PLAYERS_MANAGER|УПРАВЛIННЯ ГРАВЦЯМИ
+_MAPS_LOADING|ЗАВАНТАЖЕННЯ МАП
+_MAPS_AVAILABLE|ДОСТУПНІ МАПИ
+_MAPS_ROTATION|РОТАЦІЯ МАП
+_ADD_TO_ROTATION|ДОДАТИ В РОТАЦІЮ
+_REQUEST_ADDING_TO_ROTATION|запит на додавання карти
+_TO_ROTATION|в ротацію
+_REMOVE_FROM_ROTATION|ВИДАЛИТИ З РОТАЦІЇ
+_REQUEST_REMOVE_FROM_ROTATION|запит на видалення мапи
+_FROM_ROTATION|з ротації
+_LAUNCH_MAP|ЗАПУСТИТИ МАПУ
+_REQUEST_LAUNCH_MAP|запит на запуск мапи
+_KICK_FROM_SERVER|КІКНУТИ З СЕРВЕРУ
+_REQUEST_FOR_KICK_PLAYER|запит на ік гравця
+_PERMISSION_CHAT|ЗАБОРОНИТИ/ДОЗВОЛИТИ ЧАТ
+_REQUEST_SILENCE_PLAYER|запи на mute/unmute гравця
+_PERMISSION_BUILDING|ДОЗВОЛИТИ/ЗАБОРОНИТИ БУДІВНИЦТВО
+_REQUEST_BUILD_FOR_PLAYER|запит на будівництво для гравця
+_MODE_GAME|РЕЖИМ ГРИ
+_VISIBILITY_SERVER|ВИДИМІСТЬ СЕРВЕРУ
+_VISIBLE_EVERYONE|ВИНО ВСІМ
+_HIDDEN|ПРИХОВАНИЙ
+_MODIFIERS|МОДФІКАТОРИ
+_ALLOW_BREAK|ДОЗВОЛЕНО ЛОМАТИ
+_FORBIDDEN_BREAK|ЗАБОРОНЕНО ЛОМАТИ
+_ALLOW_BUILD|ДОЗВОЛЕНО БУДІВНИЦТВО
+_FORBIDDEN_BUILD|ЗАБОРОНЕНО БУДІВНИЦТВО
+_ALLOW_ATTACK|ДОЗВОЛЕНО АТАКУВАТИ
+_FORBIDDEN_ATTACK|ЗАБОРОНЕНО АТАКУВАТИ
+_LOCAL_MAPS|ЛОКЛЬНІ МАПИ
+_MAPS_ON_SERVER|МАПИ НА СЕРВЕРІ
+_REMOVE_MAP|ВИДАЛИТИ МАПУ
+_REQUEST_REMOVE_MAP|запит на видалення мапи
+_SEND_TO_SERVER|ВІДПРАВИТИ НА СЕРВЕР
+_DOWNLOAD_FROM_DISK|ЗАВАНТАЖИТИ З ДИСКА
+_REQUEST_PLAYER_TO_CLAN|Заявка в клан гравець
+_CLANCHAT|КЛАН ЧАТ
+_PLAYERS|ГРАВЦІ
+_LANGUAGE|МОВА
+_TAP_CONTINUE|НАТИСНІТЬ ДЛЯ ПРОДОВЖЕННЯ
+_CROSSPLAY|Кросплатформені сервери
+_FULL|ПОВНЕ
+_CHANGE_TEAM|ЗМІНИТИ КОМАНДУ
+_QUICK_PLAY|ШВИДКА ГРА
+_SERVER_LIST|ССПИСОК СЕРВЕРІВ
+_LOGOUT|ВИЙТИ З ПРОФІЛЯ
+_FPS_LIMIT|ОБМЕЖЕННЯ FPS
+_FIELDOFVIEW|КУТ ОГЛЯДУ
+_SENSITIVITY|ЧУТЛИВІСТЬ
+_SENSITIVITY_AIM|ЧУТЛИВІСТЬ (ПРИЦІЛЮВАННЯ)
+_LOGIN_GAME|ВІЙТИ У ГРУ
+_LOGIN_VK|ВІЙТИ ЧЕРЕЗ VK
+_ORDER_LIST|СПИСОК ЗАМОВЛЕНЬ
+_CLAN_EXP|КЛАН EXP
+_LEVEL_PROGRESS|ПРОГРЕС РІВНЯ
+_CLAN_FRAGS|КЛАН ФРАГІВ:
+_CLAN_DEATHS|КЛАН СМЕРТЕЙ:
+_PLAYER_STATS|СТАТИСТИКА ГРАВЦЯ
+_PLAYER_GAINED|ЗДОБУДО EXP:
+_UPLOAD_FILES|ЗАВАНТАЖЕННЯ ФАЙЛІВ
+_ROUND|РАУНД
+_ROUND_WON|ВИ ВИГРАЛИ РАУНД
+_ROUND_LOSE|РАУНД ПРОГРАНО
+_ENEMY_ELIMINATED|ВОРОГА ЗНИЩЕНО
+_ROUND_TIME_END|ДОСЯГНУТО ОБМЕЖЕННЯ ЧАСУ
+_RESET|ЗКИНУТИ
+_CHANGE_CONTROL|НАЛАШТУВАТИ УПРАВЛIННЯ
+_FILTER_INFECTION|Зараження
+_PRESET|КОНФІГУРАЦІЯ
+_RENDER_DISTANCE|ДАЛЬНІСТЬ ПРОМАЛЬОВУВАННЯ
+_PERFOMANCE|ПРОДУКТИВНІСТЬ
+_QUALITY|ЯКІСТЬ
+_PLACE_WEAPON_CASE_STEAM|Помістіть 3 однакових одиниці зброї для розбору <color=red>(зброя буде знищена назавжди</color>, вобмін ви отримаєте спціальний кейс.
+_MOVEMENT|РУХ
+_WEAPONS|ЗБРОЇ
+_CHAT|ЧАТ
+_GAMEPLAY|ІГРОВИЙ ПРОЦЕС
+_FORWARD|ВПЕРЕД
+_BACKWARD|НАЗАД
+_STRAFE_LEFT|ВЛЕВО
+_STRAFE_RIGHT|ВПРАВО
+_PREVIOUS_WEAPON|ПОПЕРЕДНІ ЗБРОЯ
+_ALL_CHAT|ЧАТ (ВСЕ)
+_TEAM_CHAT|КОМАНДНИЙ ЧАТ
+_CHANGE_SET|ВИБРАТИ СЕТ
+_SECOND_ATTACK|ДОДАТКОВА КНОПКА АТАКИ
+_CROUCH|ПРИСІДАННЯ
+_REQUIRED_LEVEL|ПОТРІБНО {0} РІВЕНЬ
+_FILTER_FREEZETAG|Командна заморозка
+_FILTER_PISTOL|Бій на пістолетах
+_FILTER_GUNGAME|Gun Game
+_MODE_FREEZETAG|КОМАНДНА ЗАМОРОЗКА
+_MODE_PISTOL|БІЙ НА ПІCТОЛЕТ
+_MODE_GUNGAME|GUN GAME
+_CONNECTION_ATTEMPT|СПРОБА ПІДКЛЮЧЕННЯ
+_CLAN|КЛАН
+_SLOTS|СЛОТЫ

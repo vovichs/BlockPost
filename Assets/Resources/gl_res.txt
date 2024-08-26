@@ -1,0 +1,8 @@
+file gl_gamepack40
+file gl_casepack40
+file gl_attachpack40
+file gl_playerpack43
+file gl_soundpack41
+file gl_miscpack40
+file gl_texturepack40
+file gl_weaponpack43

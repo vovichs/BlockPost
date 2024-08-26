@@ -1,0 +1,6 @@
+position 0.95 -1.05 1.75
+lposition 15 0.5 0
+scope 2 sightmark_s
+scope 4 tasco_s
+scope 6 eotech_s
+scope 10 acog_s

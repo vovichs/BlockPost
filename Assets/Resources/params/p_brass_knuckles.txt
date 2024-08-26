@@ -1,0 +1,9 @@
+animation
+double
+changeparent
+backpack p -8.75 13.21 -2.11
+backpack r 358.2924 87.98931 272.1193
+backpack s 0.35 0.35 0.35
+weapon p 10.26 0.34 -0.29
+weapon r 87.3575 180.0001 180.0001
+weapon s 0.4 0.4 0.4

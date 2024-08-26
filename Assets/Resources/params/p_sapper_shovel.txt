@@ -1,0 +1,2 @@
+﻿lposition 3 0 0
+rposition 6 0 0
